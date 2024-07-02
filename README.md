@@ -1,6 +1,6 @@
 # Election Results Data Analysis
 
-This project involves scraping data from the Election Commission of India's (ECI) website ([results.eci.gov.in](https://results.eci.gov.in)) to analyze the results of recent elections. The data has been saved into Excel sheets, and key insights have been derived using AI tools.
+This project involves scraping data from the Election Commission of India's (ECI) website ([results.eci.gov.in](https://results.eci.gov.in)) to analyze the results of recent elections. The data has been saved into Excel sheets, and key insights have been derived using AI tools and visualized using visualization tools .
 
 ## Project Overview
 
@@ -35,6 +35,7 @@ Based on the analysis of the scraped data, the following 10 key insights were de
   - `Parliamentary Constituency General.xlsx`
   - `Andhra Pradesh Assembly Elections.xlsx`
 - **Analysis Notebook**: A Jupyter notebook (or other script) used for deriving insights from the data.
+- **Visualization Tool**: Excel data uploaded to powerbi is used to make the election statistics graphs.
 - **README.md**: This file, providing an overview of the project.
 
 ## How to Use
